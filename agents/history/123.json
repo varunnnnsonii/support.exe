@@ -1,0 +1,98 @@
+[
+  {
+    "thread_id": "1234",
+    "timestamp": "2025-06-12T04:17:20.066467",
+    "role": "user",
+    "content": "i need to replace my bag as the colour came is yellow and ordered pink order id 1234322"
+  },
+  {
+    "thread_id": "1234",
+    "timestamp": "2025-06-12T04:17:20.071199",
+    "role": "assistant",
+    "content": "I've confirmed the order ID and the replacement color. I'll go ahead and process the replacement for you. You should receive a new bag with the correct color, pink, within the next 7-10 business days. If you have any other questions or concerns, please don't hesitate to reach out."
+  },
+  {
+    "thread_id": "1234",
+    "timestamp": "2025-06-12T04:20:09.720247",
+    "role": "user",
+    "content": "ok"
+  },
+  {
+    "thread_id": "1234",
+    "timestamp": "2025-06-12T04:20:09.731405",
+    "role": "assistant",
+    "content": "I'm happy to help you with any questions you may have. What's on your mind?"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:22:47.512748",
+    "role": "user",
+    "content": "what are the socks available?"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:22:47.525564",
+    "role": "assistant",
+    "content": "I'd be happy to help with that. What type of sock are you looking for?"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:23:06.950400",
+    "role": "user",
+    "content": "men socks that are comfortable"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:23:06.957491",
+    "role": "assistant",
+    "content": "We have a range of comfortable socks for men from various brands. Would you like me to recommend some?"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:23:23.501246",
+    "role": "user",
+    "content": "yes"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:23:23.508718",
+    "role": "assistant",
+    "content": "Based on our catalogue, I recommend the following comfortable socks for men:\n\n1. Smartwool PhD Outdoor Light Crew Socks\n2. Injinji Trail Midweight Mini-Crew Socks\n3. Darn Tough Hiking Socks\n\nWould you like to know more about any of these options?"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:23:38.451016",
+    "role": "user",
+    "content": "ok"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:23:38.463842",
+    "role": "assistant",
+    "content": "The Smartwool PhD Outdoor Light Crew Socks are a great option for warm weather hiking and outdoor activities. They are lightweight, breathable, and moisture-wicking, making them perfect for keeping your feet dry and comfortable.\n\nThe Injinji Trail Midweight Mini-Crew Socks are another great option for hiking and trail running. They have a unique toe-separating design that helps to reduce blisters and improve overall comfort.\n\nThe Darn Tough Hiking Socks are a great option for anyone who wants a high-quality, durable hiking sock. They are made with merino wool and are designed to keep your feet warm and dry in cold weather conditions.\n\nWould you like to place an order for any of these options?"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:24:41.959594",
+    "role": "user",
+    "content": "exit"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:24:41.972868",
+    "role": "assistant",
+    "content": "You have exited the conversation. Thank you for using our service."
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:24:53.871078",
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "thread_id": "12345",
+    "timestamp": "2025-06-12T04:24:53.881595",
+    "role": "assistant",
+    "content": "You have been transferred back to the supervisor. How can I assist you today?"
+  }
+]

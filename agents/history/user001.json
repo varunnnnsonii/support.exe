@@ -1,0 +1,38 @@
+[
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:35:34.738768",
+    "role": "user",
+    "content": "hi i am varun can you tell about laptops that are available"
+  },
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:35:34.742020",
+    "role": "assistant",
+    "content": "I've listed the top 10 laptops available. If you'd like to know more about a specific laptop or compare different models, feel free to ask!"
+  },
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:37:13.963510",
+    "role": "user",
+    "content": "can you tell me 3 laptops"
+  },
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:37:13.974168",
+    "role": "assistant",
+    "content": "Here are 3 laptops available:\n\n1. Dell XPS 13\n2. Apple MacBook Air\n3. HP Envy x360"
+  },
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:37:40.748748",
+    "role": "user",
+    "content": "can you tell me 10 laptops"
+  },
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:37:40.759483",
+    "role": "assistant",
+    "content": "Here are the 10 laptops available:\n\n1. Dell XPS 13\n2. Apple MacBook Air\n3. HP Envy x360\n4. Lenovo ThinkPad X1 Carbon\n5. Asus ZenBook 14\n6. Microsoft Surface Laptop 4\n7. Acer Aspire 5\n8. Razer Blade 15\n9. MSI PS65\n10. LG Gram 14"
+  }
+]

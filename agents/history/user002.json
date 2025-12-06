@@ -1,0 +1,14 @@
+[
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:55:04.543378",
+    "role": "user",
+    "content": "hi i am varun"
+  },
+  {
+    "thread_id": "001",
+    "timestamp": "2025-06-15T11:55:04.546556",
+    "role": "assistant",
+    "content": "You wanted to know more about the products. What would you like to know?"
+  }
+]

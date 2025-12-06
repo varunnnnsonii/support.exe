@@ -1,0 +1,38 @@
+[
+  {
+    "thread_id": "12123",
+    "timestamp": "2025-06-15T11:58:42.143632",
+    "role": "user",
+    "content": "i got a different colored shoe ordered yesturday ,got delivered today my shoe was supposed to be pink and it is red"
+  },
+  {
+    "thread_id": "12123",
+    "timestamp": "2025-06-15T11:58:42.151667",
+    "role": "assistant",
+    "content": "I have escalated your issue to a specialist who will contact you within 24 hours to assist with your request."
+  },
+  {
+    "thread_id": "12123",
+    "timestamp": "2025-06-15T11:59:56.705616",
+    "role": "user",
+    "content": "can you tell me about men socks that you have"
+  },
+  {
+    "thread_id": "12123",
+    "timestamp": "2025-06-15T11:59:56.712026",
+    "role": "assistant",
+    "content": "Would you like to know more about any of these products?"
+  },
+  {
+    "thread_id": "12123",
+    "timestamp": "2025-06-15T12:01:29.188464",
+    "role": "user",
+    "content": "can you tell me about 3 laptops that are available"
+  },
+  {
+    "thread_id": "12123",
+    "timestamp": "2025-06-15T12:01:29.214399",
+    "role": "assistant",
+    "content": "We have the following laptops available:\n\n1. Dell XPS 13\n2. HP Envy x360\n3. Lenovo ThinkPad X1 Carbon"
+  }
+]
